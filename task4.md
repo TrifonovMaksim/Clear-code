@@ -24,9 +24,9 @@
 ```
 
 В данном примере имя tmp и node, неинформативны. 
-tmp - NodeToSaveNextNode
+tmp - NodeToSaveNextNode  
 // Временный узел для обмена данными
-node - CurrentNode
+node - CurrentNode  
 // Текущий узел с которым работаем
 
 
@@ -55,13 +55,13 @@ node - CurrentNode
 
 В данном примере имена tmp_linked_list, min_node, node неинформативны.
 
-tmp_linked_list - SortedLinkedList
+tmp_linked_list - SortedLinkedList  
 // Отсортированный список
 
-min_node - NodeWithMinValue
+min_node - NodeWithMinValue  
 // Узел с минимальным значением
 
-node - CurrentNode
+node - CurrentNode  
 // Текущий узел с которым работаем
 
 
@@ -102,19 +102,19 @@ node - CurrentNode
 
 В данном примере есть много недочетов. Имена с цифрами list1, list2, node1, node2. Имя стандартного типа res_list.
 
-list1 - FirstList
+list1 - FirstList  
 // Первый список
 
-list2 - SecondList
+list2 - SecondList  
 // Второй список 
 
-node1 - FirstListNode
+node1 - FirstListNode  
 // Узел первого списка
 
-node2 - SecondListNode
+node2 - SecondListNode  
 // Узел второго списка
 
-res_list - MergedList
+res_list - MergedList  
 // Суммарный лист двух связных списков
 
 
@@ -149,14 +149,14 @@ res_list - MergedList
 ```
 В данном примере неинформативные имена a, b. Имена стандартного типа result, res. Также result, res это похожие имена.
 
-a - FirstValueToCompare
+a - FirstValueToCompare  
 // Первое значение для сравнения
 
-b - SecondValueToCompare
+b - SecondValueToCompare  
 // Второе значение для сравнения
 
-result - CompareResult
+result - CompareResult  
 // Итог сравнения переменных
 
-res - IcomparableResult
+res - IcomparableResult  
 // Результат встроенного метода Icomparable
